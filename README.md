@@ -55,6 +55,5 @@ To run this project locally, follow these steps:
 
 If you have any questions or inquiries, feel free to reach out to me:
 
-- Email: venkatreddypadala.net@gmail.com
+- Email: venkatreddypadala.net@gmail.com <br>
 <a href = "https://www.linkedin.com/in/venkat-reddy-padala-2477a227a">Linkedin</a>
-```
